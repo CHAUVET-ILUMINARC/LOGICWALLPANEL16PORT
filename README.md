@@ -3,7 +3,7 @@
 ## Software Versions
 
 [V2.11 - LOGIC Wall Panel](https://github.com/CHAUVET-ILUMINARC/LOGICWALLPANEL16PORT/blob/4ac644de3401c7ab0231f13f5ef43dbae2719bfc/Firmware/V2.11_20241009.zip)
-- Fixed bug
+- Fixed a bug
 
 [V2.10 - LOGIC Wall Panel](https://github.com/CHAUVET-ILUMINARC/LOGICWALLPANEL16PORT/blob/aa046f01243ce529efbda90263ebda137b82099e/Firmware/V2.10_240826.zip)
 - Added API command control interface
